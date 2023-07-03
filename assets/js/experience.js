@@ -5,20 +5,6 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Founder",
-    cardImage: "assets/images/experience-page/trp.png",
-    place: "TablePey",
-    time: "",
-    desp: "<p style='font-size: medium'>TablePey - The restaurant technology company. It provides efficient and effective software solutions to restaurants of all sizes. From ordering systems to inventory management tools, it helps streamline operations and enhance the overall customer experience. Our goal is to help restaurants thrive in the competitive and ever-evolving food industry.<p>",
-  },
-  {
-    title: "Founder",
-    cardImage: "assets/images/experience-page/elite.png",
-    place: "Elite Cafe",
-    time: "",
-    desp: "<p style='font-size: medium'>Elite Cafe serve up delicious coffee and light bites in a relaxed and friendly atmosphere. Whether you're looking for a quick pick-me-up on your way to work, or a place to unwind with friends over a cup of tea, Elite Cafe got you covered. Elite Cafe offers a great taste of our warm hospitality and tasty treats!</p>",
-  },
-  {
     title: "Associate Consultant in Smart Integration (EDI)",
     cardImage: "assets/images/experience-page/Bcone.png",
     place: "Bristlecone",
